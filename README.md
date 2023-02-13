@@ -1,6 +1,6 @@
 # SortingAlgorithms
 
-This is the Java implementation for the sorting algorithms: Bubble, Insertion, Shell, Selection, and Merge sort.
+This is the Java implementation for the sorting algorithms: Bubble, Insertion, Shell, Selection, and Merge sort. They are nice to have on hand!
 
 Here is a chart of the preformance speeds for all off the algorithms where the X-value represents the number of elements in an array being tested and the Y-value is the avg runtime in milliseconds.
 
